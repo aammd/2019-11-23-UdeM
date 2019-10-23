@@ -64,6 +64,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+Please register for the workshop using our <a href = "https://forms.office.com/Pages/ResponsePage.aspx?id=7O9-0kcq50uYHg-Jd_ox2DWkgCXJOsNFhB_9Lj89rMFURDkwTFI3U0pXQ0dTOTc1VElOMkJaR1E3TC4u">Google form</a>
 
 <h2 id="general">General Information</h2>
 
@@ -87,6 +88,9 @@ AUDIENCE
 Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
+
+this is a test
+
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
 {% elsif site.carpentry == "dc" %}
