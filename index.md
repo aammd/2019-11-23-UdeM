@@ -4,8 +4,8 @@ venue: "Université de Montréal"        # brief name of host site without addre
 address: "1375 Avenue Thérèse-Lavoie-Roux, Montréal, QC H2V 0B3"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "45"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "45.522730"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-73.619067"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Nov 23-24, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 3:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-11-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
