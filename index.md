@@ -68,8 +68,7 @@ Please register for the workshop using our <a href = "https://forms.office.com/P
 
 Funding for this event is graciously provided by:
 
-![](fig/Logo_GRIL_2018-FR_4000x600_200dpi.png =250x)
-
+<img src="fig/Logo_GRIL_2018-FR_4000x600_200dpi.png" width="48">
 
 <h2 id="general">General Information</h2>
 
