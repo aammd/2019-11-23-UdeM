@@ -64,11 +64,14 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-<h2>Please <a href = "https://forms.office.com/Pages/ResponsePage.aspx?id=7O9-0kcq50uYHg-Jd_ox2DWkgCXJOsNFhB_9Lj89rMFURDkwTFI3U0pXQ0dTOTc1VElOMkJaR1E3TC4u">register for the workshop here!</a></h2> 
+<h2>Please <a href = "https://forms.office.com/Pages/ResponsePage.aspx?id=7O9-0kcq50uYHg-Jd_ox2DWkgCXJOsNFhB_9Lj89rMFURDkwTFI3U0pXQ0dTOTc1VElOMkJaR1E3TC4u">register for the workshop here!</a></h2>
 
 Funding for this event is graciously provided by:
 
 <img src="fig/Logo_GRIL_2018-FR_4000x600_200dpi.png" width="250">
+
+<img src="fig/qcbs_logo_v2.png" width="250">
+
 
 <h2 id="general">General Information</h2>
 
