@@ -71,9 +71,12 @@ displayed if the 'eventbrite' field in the header is not set.
 
 Funding for this event is graciously provided by:
 
+<img src="fig/logo-bios2.png" width="400">
+
 <img src="fig/Logo_GRIL_2018-FR_4000x600_200dpi.png" width="400">
 
 <img src="fig/qcbs_logo_v2.png" width="400">
+
 
 
 <h2 id="general">General Information</h2>
